@@ -1,4 +1,4 @@
-# Odoo Community installation on Ubuntu OS
+# Odoo Community installation on Ubuntu 20.04
 - Download repository.
 - Extract it unzip odoo_installation_ubuntu-master.zip
 - cd to odoo_installation_ubuntu directory.
