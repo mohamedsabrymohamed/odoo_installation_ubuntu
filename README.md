@@ -1,6 +1,6 @@
 # Odoo Community installation on Ubuntu OS
 - Download repository.
-- Extract it.
+- Extract it unzip odoo_installation_ubuntu-master.zip
 - cd to odoo_installation_ubuntu directory.
 - chmod 777 odoo_installation.sh
 - ./odoo_installation.sh to run it
