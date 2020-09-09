@@ -1,0 +1,1 @@
+# odoo_installation_ubuntu
